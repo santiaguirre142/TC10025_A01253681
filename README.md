@@ -10,3 +10,11 @@ A01253681
 
 ## LISTADO DE EJERCICIOS
 * Actividad Evaluable: Repositorio
+
+## Equipo
+Santiago Aguirre - A01253681
+Fernando de Jesus - A00232280
+Miguel Padres Molina - A01252852
+Jesus Enrique Jaime - A01253235
+
+
