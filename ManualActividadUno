@@ -1,0 +1,24 @@
+## COMO ABRIR ARCHIVO
+
+Para poder abrir esta actividad, se tienen que descargar los archivos necesarios. En este caso, se tiene que tener descargado el archivo "Pace_of_life.csv", que se consigue del repositorio --> https://github.com/omrodriguez/TC1002S. Despues de clonar este repositorio, se extrae el zip.
+
+Empezamos escribiendo "jupyter notebook" en la terminal 
+
+Despues de abrir Jupyter, nos metemos al folder en donde tengamos el archivo necesario. En mi caso, se tuvo que entrar a Desktop desde jupyter y abrir el archivo "ActividadEstadisticaDescriptiva_A012353681"
+
+Al abrir el archivo, se corre presionando constantemente el boton Run, o al seleccionar todo el codigo y solo presionar 1 vez el boton Run
+
+
+Equipo:
+Santiago Aguirre
+Jesus Enriquez Jaime
+Miguel Padres Molina
+Fernando de Jesus
+
+
+
+
+
+
+
+
