@@ -2,6 +2,7 @@
 Repositorio para alojar los ejercicos, prácticas y tareas a realizar 
 en el curso de Herramientas Computacionales: El arte de la analítica,
 en el Tec de Monterrey campus Sonora Norte.
+
 ## ESTUDIANTE 
 Santiago Aguirre Gomez del Campo
 
@@ -10,11 +11,13 @@ A01253681
 
 ## LISTADO DE EJERCICIOS
 * Actividad Evaluable: Repositorio
+* Actividad Evaluable: Mapas de calor y boxplots
+* Actividad Evaluable: Patrones con K-means
 
 ## Equipo
-Santiago Aguirre - A01253681
-Fernando de Jesus - A00232280
-Miguel Padres Molina - A01252852
-Jesus Enrique Jaime - A01253235
+* Santiago Aguirre - A01253681
+* Fernando de Jesus - A00232280
+* Miguel Padres Molina - A01252852
+* Jesus Enrique Jaime - A01253235
 
 
