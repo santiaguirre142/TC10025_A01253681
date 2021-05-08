@@ -1,7 +1,7 @@
 # COMO CORRER ACTIVIDAD MAPAS DE CALOR
 Para poder abrir esta actividad, se tienen que descargar los archivos
 necesarios. En este caso, se tiene que tener descargado el archivo "Diamonds are forever.csv"
-Este archivo se obtiene del repositorio --> https://github.com/omrodriguez/TC10025
+Este archivo se obtiene del repositorio --> https://github.com/omrodriguez/TC1002S
 Despues de clonar este repositorio, se extrae el zip.
 
 Empezamos abriendo la terminal y escribiendo "jupyter notebook"
